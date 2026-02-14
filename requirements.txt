@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-whois
+dnspython
+requests
+jinja2
+python-multipart
